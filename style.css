@@ -1,0 +1,12 @@
+*{
+    cursor: grabbing;
+    margin: 0;
+    padding: 0;
+    height: 110vh;
+    width: 100vw;
+    overflow: hidden;
+}
+*::-webkit-scrollbar {
+    display:none;
+  }
+body{background-color: rgba(0, 0, 0, 0.877);}
